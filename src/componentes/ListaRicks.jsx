@@ -5,7 +5,7 @@ import Lista from "./Lista"
 function ListaRicks() {
 
   const [characters, setcharacters] = useState([]);
-//Miguel Angel Rivas Reportando
+//Miguel Angel Rivas Reportando jkjkjkjk
 
   const obtenerLista = async () => {
     let respuesta = await fetch('https://rickandmortyapi.com/api/character');
